@@ -18,7 +18,10 @@
 
 2.MARCO TEÓRICO
 
-
+![1](https://user-images.githubusercontent.com/117045943/218233698-5efcebb7-e00a-4098-98f3-6e9436d48046.jpg)
+![2](https://user-images.githubusercontent.com/117045943/218233706-e093ce12-d143-4c9d-a0db-1bb556c26c6d.jpg)
+![3](https://user-images.githubusercontent.com/117045943/218233709-016bd0a8-ac44-455a-84d7-612618e76be6.jpg)
+![4](https://user-images.githubusercontent.com/117045943/218233712-39feb731-149e-4d51-97f0-e7df15d7728f.jpg)
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -26,7 +29,7 @@
 
 4.VIDEO
 
-
+https://drive.google.com/file/d/1EzgyFwEIJp9vEzMdye1cWzTnVQuDg4bI/view?usp=sharing
 
 5.CONCLUSIONES
 
